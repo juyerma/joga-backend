@@ -1,6 +1,6 @@
 {
-  "projectName": "nestjs-boilerplate",
-  "projectOwner": "brocoders",
+  "projectName": "joga-backend",
+  "projectOwner": "Joga",
   "files": [
     "README.md"
   ],
@@ -9,40 +9,14 @@
   "contributorsPerLine": 7,
   "contributors": [
     {
-      "login": "Shchepotin",
-      "name": "Vladyslav Shchepotin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6001723?v=4",
-      "profile": "https://github.com/Shchepotin",
+      "login": "juyerma",
+      "name": "Julien Yerma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12254608?v=4",
+      "profile": "https://github.com/juyerma",
       "contributions": [
         "maintenance",
         "doc",
-        "code"
-      ]
-    },
-    {
-      "login": "SergeiLomako",
-      "name": "SergeiLomako",
-      "avatar_url": "https://avatars.githubusercontent.com/u/31205374?v=4",
-      "profile": "https://github.com/SergeiLomako",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "ElenVlass",
-      "name": "Elena Vlasenko",
-      "avatar_url": "https://avatars.githubusercontent.com/u/72293912?v=4",
-      "profile": "https://github.com/ElenVlass",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "sars",
-      "name": "Rodion",
-      "avatar_url": "https://avatars.githubusercontent.com/u/226194?v=4",
-      "profile": "http://brocoders.com",
-      "contributions": [
+        "code",
         "business"
       ]
     }

@@ -21,10 +21,6 @@ Switching between TypeORM and Mongoose is implemented based on the [Hexagonal Ar
 
 1. Clone repository
 
-   ```bash
-   git clone --depth 1 https://github.com/brocoders/nestjs-boilerplate.git my-app
-   ```
-
 1. Go to folder, and copy `env-example-relational` as `.env`.
 
    ```bash
@@ -88,9 +84,6 @@ Switching between TypeORM and Mongoose is implemented based on the [Hexagonal Ar
 
 1. Clone repository
 
-   ```bash
-   git clone --depth 1 https://github.com/brocoders/nestjs-boilerplate.git my-app
-   ```
 
 1. Go to folder, and copy `env-example-document` as `.env`.
 
@@ -145,9 +138,6 @@ If you want quick run your app, you can use following commands:
 
 1. Clone repository
 
-   ```bash
-   git clone --depth 1 https://github.com/brocoders/nestjs-boilerplate.git my-app
-   ```
 
 1. Go to folder, and copy `env-example-relational` as `.env`.
 
@@ -177,10 +167,6 @@ If you want quick run your app, you can use following commands:
 If you want quick run your app, you can use following commands:
 
 1. Clone repository
-
-   ```bash
-   git clone --depth 1 https://github.com/brocoders/nestjs-boilerplate.git my-app
-   ```
 
 1. Go to folder, and copy `env-example-document` as `.env`.
 
