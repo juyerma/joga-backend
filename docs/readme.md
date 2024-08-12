@@ -16,4 +16,14 @@
 - [Benchmarking](benchmarking.md)
 - [Automatic update of dependencies](automatic-update-dependencies.md)
 
+### Few Core topics every Nest Developer should know:
+- Controllers
+- Providers
+- Modules
+- Middleware
+- Exceptions and Error Handling
+- Pipes
+- Guards
+- Interceptors
+- 
 ![NestJS architecture](https://github.com/user-attachments/assets/027b66bf-cc27-485c-9f16-c0045808e7cf)
